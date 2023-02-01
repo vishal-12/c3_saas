@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
       - name: productcatalogue
-        image: 239663018538.dkr.ecr.us-west-2.amazonaws.com/productcatalogue:877517f50a480da770c02bca1b9c9b90b6b2b1e1
+        image: 239663018538.dkr.ecr.us-west-2.amazonaws.com/productcatalogue:51ac724517907021b4cea4da4232df6f1c472a44
         ports:
         - containerPort: 8020
         livenessProbe:
